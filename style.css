@@ -301,7 +301,8 @@ footer {
         font-size: 12px;
     }
     .input-container{
-        overflow: hidden;
+        overflow: auto;
+        width: 100%;
         font-size: 12px;
     }
 }
