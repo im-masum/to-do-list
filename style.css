@@ -276,6 +276,9 @@ footer {
 }
 
 @media (max-width: 767px) {
+    h1{
+        font-size: 24px;
+    }
     .app-container {
         flex-direction: column;
     }
@@ -285,7 +288,7 @@ footer {
         margin: 10px 10px;
     }
     .calendar-header h2{
-        font-size: 24px;
+        font-size: 20px;
     }
 
     .calendar-grid {
